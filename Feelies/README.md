@@ -1,4 +1,4 @@
-# Shapes for haptic experiments
+# Shapes for vision and haptic experiments
 ##### v 1.1
 
 [![feelies](https://academics.skidmore.edu/blogs/flip/files/2016/09/feelies.png)](https://academics.skidmore.edu/blogs/flip/files/2016/09/feelies.png) 
